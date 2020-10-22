@@ -1,9 +1,10 @@
 {
-  "name": "am-input",
+  "name": "am-form-input",
   "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
     "lodash": "3"
-  }
+  },
+  "gitHead": "4ea3a9eea9a1897b39f4a67b5a2a24860ed592b4"
 }

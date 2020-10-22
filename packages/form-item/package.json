@@ -5,5 +5,6 @@
   "license": "MIT",
   "dependencies": {
     "async-validator": "^3.4.0"
-  }
+  },
+  "gitHead": "4ea3a9eea9a1897b39f4a67b5a2a24860ed592b4"
 }
