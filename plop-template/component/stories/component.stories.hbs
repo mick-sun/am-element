@@ -1,0 +1,20 @@
+import Am{{properCase name}} from '../src/{{name}}.vue'
+
+export default {
+  title: '{{properCase name}}',
+  component: Am{{properCase name}}
+}
+
+
+export const {{properCase name}} = () => (
+  {
+    components: {
+      Am{{properCase name}}
+    },
+    template: `
+      <div>
+        <am-{{name}}></am-{{name}}>
+      </div>
+    `
+  }
+)
