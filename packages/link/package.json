@@ -10,5 +10,6 @@
     "build": "rollup -c",
     "del": "rimraf dist"
   },
-  "keywords": []
+  "keywords": [],
+  "gitHead": "d441c9f2d7146bb721824ae9f36771c1b4b62492"
 }
