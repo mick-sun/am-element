@@ -1,6 +1,6 @@
 {
   "name": "am-link",
-  "version": "0.0.0",
+  "version": "0.0.3",
   "description": "am-link component",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
@@ -10,6 +10,5 @@
     "build": "rollup -c",
     "del": "rimraf dist"
   },
-  "dependencies": {},
   "keywords": []
 }
